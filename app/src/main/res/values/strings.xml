@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ip_address">13.235.250.119</string>
+    <string name="token">a5b5baad2ccbcf</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="add_to_cart_btn">Add</string>
+    <string name="proceed_to_cart_btn">Proceed to Cart</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below:</string>
+    <string name="ordering_from">Ordering From: </string>
+    <string name="place_order">Place Order (Rs)</string>
+    <string name="shared_preferences">RestaurantPreference</string>
+    <string name="your_previous_orders_are_listed_below">Your previous orders :</string>
+    <string name="question1">Q1. What is FoodApp?</string>
+    <string name="answer1">A1. FoodApp is a final project built under Android Training of Internshala.</string>
+    <string name="question2">Q2. What does FoodApp do?</string>
+    <string name="answer2">A2. It does Nothing except for listing some restaurants and their foods as provided by the API token from Internshala. To be concise, it simulates a Food Ordering App with limited functionality. Even payments are fake. Lol.</string>
+    <string name="question3">Q3. How long was the Internshala Training Period?</string>
+    <string name="answer3">A3. The training period of the Android Training from Internshala was 6 weeks long. It consisted of 5 Modules with approximately 10 hours of videos.</string>
+    <string name="question4">Q4. Is this project Industry ready?</string>
+    <string name="answer4">A4. Absolutely Not. DISCLAIMER: This project is made under given problem statement from Internshala. No special modifications were made in this project and this project is also a part of Mini–Project of end of 4th Semester, B.Tech which is to be assessed in 5th Semester.</string>
+    <string name="can_t_find_any_restaurant_with_that_name">Oops! Can\'t find any Restaurant with that name!</string>
+    <string name="no_orders_placed">No Orders Placed Yet</string>
+    <string name="foodzest">FoodApp</string>
+
+
+</resources>
